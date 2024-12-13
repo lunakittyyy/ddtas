@@ -7,3 +7,6 @@ Alpha 1 milestones (similiar to Minecraft mod LoTAS) include:
 Future potential features might include:
 - [ ] Frame-by-frame TAS editor
 - [ ] Full savestates  
+
+
+DDTAS is not for cheating and will intentionally disallow use with vanilla players.
